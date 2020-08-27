@@ -89,7 +89,7 @@ document.addEventListener("keyup", function(event) {
 
     case "h":
       a3.pause();
-      a_3.currentTime=0;
+      a3.currentTime=0;
       break;
 
     case "u":
